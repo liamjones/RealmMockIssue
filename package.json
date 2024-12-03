@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "fs-extra": "^11.2.0",
     "react": "18.3.1",
-    "react-native": "0.76.3"
+    "react-native": "0.76.3",
+    "realm": "^12.14.0",
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
